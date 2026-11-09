@@ -1,0 +1,7 @@
+{
+  "name": "Nano Banana Pro: Background Reimagined",
+  "description": "A sophisticated AI-powered tool that seamlessly replaces backgrounds in your images using the advanced Gemini 3 Pro Image model. Simply upload an image and describe your dream setting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
